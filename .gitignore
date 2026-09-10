@@ -1,0 +1,16 @@
+# Node / Next.js
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+
+# Python
+backend/__pycache__/
+backend/.pytest_cache/
+backend/uploads/*
+!backend/uploads/.gitkeep
+*.pyc
+.env
+.env.local
+
+# Database (optional to commit)
+# backend/scam_intel.db

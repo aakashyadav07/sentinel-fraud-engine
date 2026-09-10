@@ -1,0 +1,21 @@
+{
+  "name": "Sentinel Fraud & Scam Intelligence",
+  "short_name": "Sentinel",
+  "description": "Multi-input fraud pattern detection, OCR forensics, and explainable scam risk scoring",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#06090e",
+  "theme_color": "#06b6d4",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
